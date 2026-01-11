@@ -57,7 +57,7 @@ export default defineConfig({
 
   build: {
     target: 'esnext',
-    outDir: 'dist', // ✅ standard for Vite + gh-pages
+    outDir: 'docs', // ✅ standard for Vite + gh-pages
   },
 
   server: {
