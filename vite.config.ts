@@ -4,7 +4,7 @@ import path from 'path';
 
 export default defineConfig({
   // 🔥 REQUIRED for GitHub Pages
-  base: '/yazua/',
+  base: '/yazua-2/',
 
   plugins: [react()],
 
